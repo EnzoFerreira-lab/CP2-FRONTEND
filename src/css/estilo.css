@@ -93,3 +93,25 @@ table, th, td {
     border: 1px solid #ccc;
     padding: 10px;
 }
+button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    background-color: #66bb6a;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4caf50;
+}
+
+footer {
+    background-color: #2e7d32;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: auto;
+}
