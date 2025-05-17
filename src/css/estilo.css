@@ -73,3 +73,23 @@ main ul li {
     margin-bottom: 8px;
     font-size: 1.1rem;
 }
+item {
+    margin: 20px 0;
+}
+
+.item img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
