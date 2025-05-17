@@ -139,6 +139,7 @@ footer {
   border-radius: 10px;
   margin-bottom: 10px;
 }
+
 .contato-form {
   max-width: 500px;
   margin: 0 auto;
@@ -159,5 +160,17 @@ body.layout {
     display: flex;
     flex-direction: column;
 }
+#container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
 
+footer {
+    margin-top: auto;
+}
+.logo {
+    height: 60px;
+    margin-bottom: 10px;
+}
 
